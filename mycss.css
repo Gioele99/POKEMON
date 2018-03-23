@@ -1,0 +1,46 @@
+.nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgba(50,50,50,0.5);
+    border: 1px solid black;
+    border-radius:30px;
+}
+.container
+{
+  text-align: center;
+}
+.main{
+  background-color: rgba(50,50,50,0.5);
+  color:red;
+
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+
+}
+
+body {
+  background: url(Catalogo.jpg) no-repeat center center fixed;
+}
+
+.index{
+  background: url(untitled.png) no-repeat center center fixed;
+}
+.pagine a{
+  color:white;
+
+}
